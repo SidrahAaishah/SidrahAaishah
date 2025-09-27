@@ -1,4 +1,3 @@
-![Banner](https://github.com/SidrahAaishah/SidrahAaishah/blob/main/banner.png)
 
 ## 👩‍💻 About Me:
 
