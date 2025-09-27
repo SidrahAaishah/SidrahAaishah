@@ -1,4 +1,4 @@
-![Banner](your_image_link_here.png)
+![Banner](https://github.com/SidrahAaishah/SidrahAaishah/blob/main/banner.png)
 
 ## 👩‍💻 About Me:
 
@@ -53,8 +53,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SidrahAaishah&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 😎 Mood Now
-💻 Currently: Debugging internship & code  
-☕ Powered by: food 
+💻 Currently: Debugging tension & code  
+☕ Powered by: food  
 🎧 Mood: Lo-fi beats while coding
 
 
